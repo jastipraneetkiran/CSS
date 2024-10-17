@@ -1,5 +1,5 @@
 # Headings
-The **h1** through **h6** heading elements are used to signify the importance of content below them. The lower the number, the higher the importance, so **h2** elements have less importance than **h1** elements.
+>The **h1** through **h6** heading elements are used to signify the importance of content below them. The lower the number, the higher the importance, so **h2** elements have less importance than **h1** elements.
 
 ```
 <h1>most important heading element</h1>
@@ -9,9 +9,9 @@ The **h1** through **h6** heading elements are used to signify the importance of
 <h5>fifth most important heading element</h5>
 <h6>least important heading element</h6>
 ```
-Only use one **h1** element per page and place lower importance headings below higher importance headings.
+>Only use one **h1** element per page and place lower importance headings below higher importance headings.
 
-Below the **h1** element, add an **h2** element with this text:
+>Below the **h1** element, add an **h2** element with this text:
 
 **Cat Photos**
 ```
